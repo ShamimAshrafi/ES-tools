@@ -2,7 +2,7 @@
 
 ##################
 #AWS Elasticsearch diagnostics script
-#Version 1.0 created by Shamim Ashrafi on 3/20/2017
+#Version 1.0 created by Shamim Ashrafi on 5/20/2017
 #Usage script-name <ESS end point>
 #################
 
